@@ -1,10 +1,8 @@
 {
-    "Group1": {
-        "capeUrl": "http://www.example.com/group1_cape.png",
+    "Developer": {
+        "capeUrl": "https://www.dropbox.com/s/blmsxxlry72s5nj/Minecon_Cape.png",
         "users": [
-            "JadarMC",
-            "MinerID642"
+            "creepergetspwned"
         ]
-    },
-    "Captain_Shadows": "http://www.example.com/captain_cape.png"
+    }
 }
